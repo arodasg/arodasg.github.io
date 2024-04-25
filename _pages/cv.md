@@ -44,12 +44,12 @@ Teaching Experience
 
 Relevant Professional Experience 
 ======
-* **Municipality of Palmira** (Colombia) (_Feb.-Jul 2020_)
+* **Municipality of Palmira** (Colombia - _Feb.-Jul 2020_)
   * Specialized Professional (General Secretary)
   * Duties included:
     * Coordinated departments within the Municipality to ensure effective implementation of projects to mitigate the effects of COVID-19.
     * Advised the Mayor on strategic topics and monitored strategic projects for the mayor’s office.     
-* **Municipality of Cali** (Colombia) (_Jan 2016 - Dec 2019_)
+* **Municipality of Cali** (Colombia - _Jan 2016 - Dec 2019_)
   * **Secretary of Government** - Secretary Interim  (_Oct-Dec 2019_)
   * Duties included:
     * Chief of Staff.
@@ -87,14 +87,14 @@ Selected Publications
   * "The Dynamics of Compliance: Understanding the Motivations Behind Public Employee Adherence in Their Roles" _(Dissertation chapter)_
   * "What doesn’t kill you make you stronger: Local Government Financial Performance and Administrative Capacity during COVID-19 under a decentralized regimen" _with Pablo Sanabria-Pulido and Felipe Lozano_
   * It´s More than Political Adjustments: When Cabinet Reshuffles Affect Government Performance _with Mauricio Astudillo Rodas, Ricardo Salas, and Pablo Sanabria Pulido_
-* “College graduates gender gap in Colombia, shrinking, growing, or evolving?” _with Felipe Lozano-Rojas and Pedro Cerdan-Infante._
+  * “College graduates gender gap in Colombia, shrinking, growing, or evolving?” _with Felipe Lozano-Rojas and Pedro Cerdan-Infante._
 
   
 Selected Conferences
 ======
 * **International Research Society for Public Management - IRSPM** (_April 2024 - Tampere, Finland_)
   * "The Dynamics of Compliance: Understanding the Motivations Behind Public Employee Adherence in Their Roles"
-  *  * "What doesn’t kill you make you stronger: Local Government Financial Performance and Administrative Capacity during COVID-19 under a decentralized regimen" _with Pablo Sanabria-Pulido,  Felipe Lozano, Javier Pérez, and Jaime Bonet_
+  *  "What doesn’t kill you make you stronger: Local Government Financial Performance and Administrative Capacity during COVID-19 under a decentralized regimen" _with Pablo Sanabria-Pulido,  Felipe Lozano, Javier Pérez, and Jaime Bonet_
 * **Southeastern Conference for Public Administration – SECoPA**  (_Sept 2023 – Atlanta, US_)
   * "Rule Compliance: What Makes a Public Organization Compliant with Transparency Requirements in a Context of Bureaucratic Control"
   * "What doesn’t kill you make you stronger: Local Government Financial Performance and Administrative Capacity during COVID-19 under a decentralized regimen" _with Pablo Sanabria-Pulido, Felipe Lozano , Javier Pérez, and Jaime Bonet_
