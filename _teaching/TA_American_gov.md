@@ -11,6 +11,6 @@ This is a description of a teaching experience. You can use markdown like any ot
 Syllabi
 ======
 * [Fall 2022 - Dr.Nicholson](https://spia.uga.edu/wp-content/uploads/2022/04/POLS-1101-Syllabus-Nicholson.pdf)
-* [Spring 2023 - Dr. Nicholson](_teaching/PF_1101_Spring23.pdf)
-* [Fall 2023 - Dr. Haynes _(online)_](_teaching/POLS1101e_FALL2023.pdf)
-* [Spring 2024 - Dr. Bankert _(online)](_teaching/POLS1101e_SPRING2024.pdf)
+* [Spring 2023 - Dr. Nicholson](https://spia.uga.edu/wp-content/uploads/2022/10/POLS-1101-Syllabus-Nicholson.pdf)
+* [Fall 2023 - Dr. Haynes _(online)_](https://spia.uga.edu/wp-content/uploads/2023/03/Haynes-Fall-23-1101E.docx)
+* [Spring 2024 - Dr. Bankert _(online)](https://spia.uga.edu/wp-content/uploads/2023/09/Bankert-Spring-24-1101E.pdf)
