@@ -17,7 +17,3 @@ author_profile: true
 
 # Work in Process
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
