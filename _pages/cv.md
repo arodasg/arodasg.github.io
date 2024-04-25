@@ -17,12 +17,12 @@ Education
 
 Research Experience
 ======
-* ## Research Assistant (_Aug. 2020 – May 2022_)
+* **Research Assistant** (_Aug. 2020 – May 2022_)
   * University of Georgia, School of Public and International Affairs – SPIA (Athens, Ga, US)
   * Duties included:
     * Collected data through quantitative methods.
     * Conducted literature reviews and analyzed information about the decision-making process from different sources.
-* ## Research Assistant (_Jan 2014 - Feb 2016_)
+* **Research Assistant** (_Jan 2014 - Feb 2016_)
   * Universidad de los Andes (Bogotá, Colombia)
   * Duties included:
     * Developed recommendations for the national government on a public policy on human resource management.
