@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor - Seminar to public officers about project theory"
 collection: teaching
 type: "Workshop"
-venue: "University 1, Department"
-permalink: /teaching/2015-spring-teaching-1
-date: 2015-01-01
-location: "City, Country"
+venue: "Universidad de los Andes, Escuela de Gobierno - Colombia"
+date: 2021-11-01
+location: "Bogotá, Colobmia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+•	Prepare class material and teach about project theory and the planning system of the Colombian government.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
