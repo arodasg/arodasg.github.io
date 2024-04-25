@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "Athens, GA, US"
 ---
 
-#Syllabis
+Syllabis
 * Fall 2022 - Dr.Nicholson
 * Spring 2023 - Dr. Nicholson
 * Fall 2023 - Dr. _(online)_
