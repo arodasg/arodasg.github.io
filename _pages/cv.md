@@ -77,10 +77,6 @@ Relevant Professional Experience
 
 Publications
 ======
- # <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-
   ## Papers
 * Olivier, T., Bell, E. V., García Asorey, M. I., and **Rodas-Gaiter, A.** 2023. “Press, Pulse, and Perceptions: How Does Media Attention Signal Perceptions About Environmental Crises?” Risks, Hazards, and Crisis in Public Policy 1– 22. https://doi.org/10.1002/rhc3.12264
 * **Rodas-Gaiter, A**, Escobar, O., & Reina, D. (2022) COVID-19 as a Public Administration Challenge: How the City of Palmira (Colombia) Implemented a Coordinated Strategy Based on Evidence. Occasional Paper Series Section on International and Comparative Administration of the American Society of Public Administration, (4)84-91.
