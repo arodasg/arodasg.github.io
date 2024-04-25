@@ -80,12 +80,24 @@ Selected Publications
 * Sanabria, P., Telch, F., **Rodas, A.**, Astudillo, M., & Estrada, S. (2015). Lineamientos para una política de talento humano en el sector público colombiano. Para servir mejor al país: ¿cómo hacer estratégica la gestión del talento humano en las organizaciones públicas colombianas? In Sanabria, P. (compiler) (2015). Gestión Estratégica del Talento Humano en el Sector Público: Estado del Arte, Diagnóstico y Recomendaciones para el Caso Colombiano. Bogotá: Universidad de los Andes. 
 
 ## Work in Process
+* **Submitted to Journals**
+  * “Assessing Women’s Attitudes when facing discrimination in the Workplace: The Role of Hierarchy.” with _Mauricio Astudillo_
+* **In Process**
+  * "Rule Compliance: What Makes a Public Organization Compliant with Transparency Requirements in a Context of Bureaucratic Control" _(Dissertation chapter)_
+  * "The Dynamics of Compliance: Understanding the Motivations Behind Public Employee Adherence in Their Roles" _(Dissertation chapter)_
+  * "What doesn’t kill you make you stronger: Local Government Financial Performance and Administrative Capacity during COVID-19 under a decentralized regimen" _with Pablo Sanabria-Pulido and Felipe Lozano_
+  * It´s More than Political Adjustments: When Cabinet Reshuffles Affect Government Performance _with Mauricio Astudillo Rodas, Ricardo Salas, and Pablo Sanabria Pulido_
+* “College graduates gender gap in Colombia, shrinking, growing, or evolving?” _with Felipe Lozano-Rojas and Pedro Cerdan-Infante._
+
   
 Selected Conferences
 ======
+* **International Research Society for Public Management - IRSPM** (_April 2024 - Tampere, Finland_)
+  * "The Dynamics of Compliance: Understanding the Motivations Behind Public Employee Adherence in Their Roles"
+  *  * "What doesn’t kill you make you stronger: Local Government Financial Performance and Administrative Capacity during COVID-19 under a decentralized regimen" _with Pablo Sanabria-Pulido,  Felipe Lozano, Javier Pérez, and Jaime Bonet_
 * **Southeastern Conference for Public Administration – SECoPA**  (_Sept 2023 – Atlanta, US_)
   * "Rule Compliance: What Makes a Public Organization Compliant with Transparency Requirements in a Context of Bureaucratic Control"
-  * "What doesn’t kill you make you stronger: Local Government Financial Performance and Administrative Capacity during COVID-19 under a decentralized regimen" _with Pablo Sanabria-Pulido and Felipe Lozano_
+  * "What doesn’t kill you make you stronger: Local Government Financial Performance and Administrative Capacity during COVID-19 under a decentralized regimen" _with Pablo Sanabria-Pulido, Felipe Lozano , Javier Pérez, and Jaime Bonet_
   * It´s More than Political Adjustments: When Cabinet Reshuffles Affect Government Performance _with Mauricio Astudillo Rodas, Ricardo Salas and Pablo Sanabria Pulido_
 * **Public Management Research Conference – PMRC**  (_Jun. 2023 – Utrecht, Netherlands_)
   * “Assessing Women’s Attitudes when facing discrimination in the Workplace: The Role of Hierarchy.” with _Mauricio Astudillo_
