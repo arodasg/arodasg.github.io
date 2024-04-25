@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Conferences"
+permalink: /conferences/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 Selected Conferences
 ======
 * **International Research Society for Public Management - IRSPM** (_April 2024 - Tampere, Finland_)
