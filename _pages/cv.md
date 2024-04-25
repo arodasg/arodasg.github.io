@@ -32,37 +32,37 @@ Research Experience
 
 Teaching Experience
 ======
-* ## Teacher Assistant (_Aug. 2021 - present_)
+* **Teacher Assistant** (_Aug. 2021 - present_)
   * University of Georgia, School of Public and International Affairs – SPIA (Athens, Ga, US)
   * Class: American Government - Undergrad Level
-* ## Instructor (_Nov-Dec 2021_)
+* **Instructor** (_Nov-Dec 2021_)
   * Universidad de los Andes (Bogotá, Colombia)
   * Seminar to public employees about project theory
-* ## Teacher Assistant (_Spring 2015_)
+* **Teacher Assistant** (_Spring 2015_)
   * Universidad de los Andes (Bogotá, Colombia)
   * Class: STATA software - Undergrad Level    
 
 Relevant Professional Experience 
 ======
-* ## Municipality of Palmira (Colombia) (_Feb.-Jul 2020_)
+* **Municipality of Palmira** (Colombia) (_Feb.-Jul 2020_)
   * Specialized Professional (General Secretary)
   * Duties included:
     * Coordinated departments within the Municipality to ensure effective implementation of projects to mitigate the effects of COVID-19.
     * Advised the Mayor on strategic topics and monitored strategic projects for the mayor’s office.     
-* ## Municipality of Cali (Colombia) (_Jan 2016 - Dec 2019_)
-  * ### Secretary of Government - Secretary Interim  (_Oct-Dec 2019_)
+* **Municipality of Cali** (Colombia) (_Jan 2016 - Dec 2019_)
+  * **Secretary of Government** - Secretary Interim  (_Oct-Dec 2019_)
   * Duties included:
     * Chief of Staff.
     * Supervised the transition process between the actual government and the elected one.
-  * ### Private Office for the Mayor - Private Secretary for the Mayor (_Nov 2018 -Dec 2019_)
+  * **Private Office for the Mayor** - Private Secretary for the Mayor (_Nov 2018 -Dec 2019_)
   * Duties included:
     * Coordinated the Mayor’s appointments and schedules.
     * Supervised the implementation of strategic projects for the mayor.
-  * ### Metro Cali S.A - Executive Office for the Presidency - Specialized Professional 	(_Feb. 2017 – Oct. 2018_)
+  * **Metro Cali S.A** - Executive Office for the Presidency - Specialized Professional 	(_Feb. 2017 – Oct. 2018_)
   * Duties included:
     * Coordinated subunits within the agency to ensure the effective implementation of public transportation projects.
     * Advised the President on strategic topics related to the organization and the public transportation system.
-  * ### Cabinet Office - Specialized Professional (_Jan. 2016 – Jan 2017_)
+  * **Cabinet Office** - Specialized Professional (_Jan. 2016 – Jan 2017_)
   * Duties included:
     * Designed and coordinated the Municipality’s Delivery Unit.
     * Monitor strategic projects for the mayor’s office.
